@@ -1,0 +1,8 @@
+
+.contentImage{
+    width: inherit;
+    max-width: 50%;
+}
+#images{
+    width: 200px;
+}
